@@ -64,8 +64,8 @@
 
 <h1 align="center">🧪My Stats</h1>
 
-<p><img align='center' src="https://github-readme-stats.vercel.app/api/top-langs?username=netinq&show_icons=true&locale=en&layout=compact" alt="netinq" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=netinq&show_icons=true&locale=en&layout=compact" alt="netinq" /></p>
 
-<p>&nbsp;<img align='center' src="https://github-readme-stats.vercel.app/api?username=netinq&show_icons=true&locale=en" alt="netinq" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=netinq&show_icons=true&locale=en" alt="netinq" /></p>
 
-<p><img align='center' src="https://github-readme-streak-stats.herokuapp.com/?user=netinq&" alt="netinq" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=netinq&" alt="netinq" /></p>
