@@ -1,6 +1,9 @@
 <img src="https://blog.sarquentin.fr/img/home.png" width="400" align="right"/>
 <h1 align="left">Hi 👋, I'm Quentin Sar</h1>
-<p align="left">Web freelance developer and student at EPSI Bordeaux</p>
+<p>
+<em>Freelance web developper <a href="https://sarquentin.fr">MONSIEUR QUENTIN SAR</a></em></br>
+<em>DevOps Student <a href="https://www.epsi.fr/">EPSI Bordeaux</a></em>
+</p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/netinq?label=Mon%20Twitter)
 [![Linkedin: e Sar](https://img.shields.io/badge/-Quentin%20Sar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/quentin-sar/)](https://www.linkedin.com/in/quentin-sar/)
