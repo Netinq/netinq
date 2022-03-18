@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Quentin Sar</h1>
-<h3 align="center">Web freelance developer and student at EPSI Bordeaux</h3>
+<a href="https://sarquentin.fr" target="__blank"><img src="https://blog.sarquentin.fr/img/home.png" /></a>
 
-<a href="https://sarquentin.fr" target="__blank"><img src="https://sarquentin.fr/share/banner.png" /></a>
+<h1 align="left">Hi 👋, I'm Quentin Sar</h1>
+<p align="left">Web freelance developer and student at EPSI Bordeaux</p>
 
 <h1 align="center">🔧 Languages and Tools</h1>
 <p align="left"> 
