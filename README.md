@@ -1,4 +1,4 @@
-<img src="https://blog.sarquentin.fr/img/home.png" width="400" align="right"/>
+<img src="https://sarquentin.fr/images/web_pp.jpg" width="400" align="right"/>
 <h1 align="left">Hi 👋, I'm Quentin Sar</h1>
 <p>
 <em>Freelance web developper <a href="https://sarquentin.fr">MONSIEUR QUENTIN SAR</a></em></br>
