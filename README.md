@@ -33,12 +33,6 @@
 <img align="left" alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/>
 <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/>
 
-
 ### My projects
-- [OneTfr][onetfr] : website of the biggest faceit french hub on csgo
-- [Hilltop-Series][hilltop] : website of a tournament organiser
-- [Poterie JAMET][jamet] : website of a pottery designer
-
-## My projects
-- [Profesional Website][https://sarquentin.fr/] : Society's one page website
-- [My blog][https://blog.sarquentin.fr/] : Personnal blog website
+- [Profesional Website](https://sarquentin.fr/): Society's one page website
+- [My blog](https://blog.sarquentin.fr/) : Personnal blog website
