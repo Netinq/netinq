@@ -33,6 +33,7 @@
 <img align="left" alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/>
 <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/>
 
-### My projects
+<br />
+### Projects :
 - [Profesional Website](https://sarquentin.fr/): Society's one page website
 - [My blog](https://blog.sarquentin.fr/) : Personnal blog website
