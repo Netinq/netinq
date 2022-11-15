@@ -5,7 +5,7 @@
 <em>DevOps Student <a href="https://www.epsi.fr/">EPSI Bordeaux</a></em>
 </p>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/netinq?label=Mon%20Twitter)
+![Twitter Follow](https://img.shields.io/twitter/follow/netinqdev?label=Mon%20Twitter)
 [![Linkedin: e Sar](https://img.shields.io/badge/-Quentin%20Sar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/quentin-sar/)](https://www.linkedin.com/in/quentin-sar/)
 ![GitHub followers](https://img.shields.io/github/followers/netinq?label=Mon%20Github&style=social)
 [![Portfefolio](https://img.shields.io/badge/Mon%20Portefolio-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://sarq.dev/)](https://sarq.dev/)
