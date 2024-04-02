@@ -7,8 +7,8 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/netinqdev?label=Mon%20Twitter)
 [![Linkedin: e Sar](https://img.shields.io/badge/-Quentin%20Sar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/quentin-sar/)](https://www.linkedin.com/in/quentin-sar/)
-![GitHub followers](https://img.shields.io/github/followers/netinq?label=Mon%20Github&style=social)
 ![Gitlab](https://img.shields.io/badge/Mon%20gitlab-orange?logo=gitlab&link=https%3A%2F%2Fgitlab.com%2FNetinq)
+![GitHub followers](https://img.shields.io/github/followers/netinq?label=Mon%20Github&style=social)
 [![Portfefolio](https://img.shields.io/badge/Mon%20Portefolio-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://sarquentin.fr/)](https://sarquentin.fr/)
 
 ### Languages and Tools:
