@@ -19,9 +19,9 @@
 ###
 
 <p align="left">
-  <em>Junior DevOps Engineer at <a href="https://www.credit-agricole.com/marques-et-metiers/toutes-nos-marques/credit-agricole-group-infrastructure-platform">Crédit Agricol Group Infrastructure Platform</a></em>
-  <em>Freelance web developper at<a href="https://sarquentin.fr">Quentin Sar</a></em></br>
-  <em>Co-op DevOps Student at <a href="https://www.epsi.fr/">EPSI Bordeaux</a></em></br>
+  Junior DevOps Engineer at <a href="https://www.credit-agricole.com/marques-et-metiers/toutes-nos-marques/credit-agricole-group-infrastructure-platform">Crédit Agricol Group Infrastructure Platform</a></br>
+  Freelance web developper at<a href="https://sarquentin.fr">Quentin Sar</a></br>
+  Co-op DevOps Student at <a href="https://www.epsi.fr/">EPSI Bordeaux</a></br>
 </p>
 
 ###
