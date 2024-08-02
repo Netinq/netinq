@@ -20,7 +20,7 @@
 
 <p align="left">
   Junior DevOps Engineer at <a href="https://www.credit-agricole.com/marques-et-metiers/toutes-nos-marques/credit-agricole-group-infrastructure-platform">Crédit Agricol Group Infrastructure Platform</a></br>
-  Freelance web developper at<a href="https://sarquentin.fr">Quentin Sar</a></br>
+  Freelance web developper at <a href="https://sarquentin.fr">Quentin Sar</a></br>
   Co-op DevOps Student at <a href="https://www.epsi.fr/">EPSI Bordeaux</a></br>
 </p>
 
@@ -101,8 +101,12 @@
 <h2 align="left">💼 Previous works</h2>
 
 ###
-
-  - [Profesional Website](https://sarquentin.fr/): Society's one page website
+From the newest to the oldest
+  - [Mouille tes pattes](https://mouilletespattes.fr/) : Showcase website for a French company that works with animals
+  - [Animecards](https://animecards-mino.fr/) : Game for a French streamer
+  - [My Profesional Website](https://sarquentin.fr/): Society's one page website
   - [My blog](https://blog.sarquentin.fr/) : Personnal blog website
+  - [Impex Développement](https://impex-developpement.com/) : Showcase website for a French store design company
+  - [RAS Agencement](https://www.ras-agencement.com/) : Showcase website for a French store design company
 
 ###
